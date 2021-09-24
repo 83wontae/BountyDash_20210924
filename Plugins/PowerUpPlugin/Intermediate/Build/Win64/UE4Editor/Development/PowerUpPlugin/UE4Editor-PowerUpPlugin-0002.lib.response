@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PowerUpPlugin-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Project\UnrealCodeProject\BountyDash\Intermediate\Build\Win64\BountyDashEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Project\UnrealCodeProject\BountyDash\Plugins\PowerUpPlugin\Intermediate\Build\Win64\UE4Editor\Development\PowerUpPlugin\Module.PowerUpPlugin.cpp.obj"
+"D:\Project\UnrealCodeProject\BountyDash\Plugins\PowerUpPlugin\Intermediate\Build\Win64\UE4Editor\Development\PowerUpPlugin\Module.PowerUpPlugin.gen.cpp.obj"
+"D:\Project\UnrealCodeProject\BountyDash\Plugins\PowerUpPlugin\Intermediate\Build\Win64\UE4Editor\Development\PowerUpPlugin\Default.rc2.res"
+/OUT:"D:\Project\UnrealCodeProject\BountyDash\Plugins\PowerUpPlugin\Intermediate\Build\Win64\UE4Editor\Development\PowerUpPlugin\UE4Editor-PowerUpPlugin-0002.lib"
+/INCLUDE:IMPLEMENT_MODULE_PowerUpPlugin
